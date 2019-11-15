@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name" translatable="false">MovieCatalogueAPI</string>
+
+    <string name="content_movie_name">Movie Title</string>
+    <string name="content_movie_year">Release Year</string>
+    <string name="content_movie_description">Movie Description</string>
+    <string name="content_movie_rating">Movie Rating</string>
+    <string name="content_lang_id">Indonesia</string>
+    <string name="content_lang_en">English</string>
+    <string name="content_config_release_reminder">Release Reminder</string>
+    <string name="content_config_daily_reminder">Daily Reminder</string>
+    <string name="content_config_release_reminder_desc">Reminder showing the movie that release today</string>
+    <string name="content_config_daily_reminder_desc">Reminder for return to app</string>
+    <string name="content_query_result">Result of</string>
+
+    <string name="header_main_title">Movie Catalogue</string>
+    <string name="header_detail_title">Movie Detail</string>
+    <string name="header_language_title">Language</string>
+    <string name="header_config_title">Settings</string>
+
+    <string name="tab_movie_title">Movies</string>
+    <string name="tab_tv_title">TV Shows</string>
+    <string name="tab_favorite">Favorite</string>
+    <string name="menu_language">Language</string>
+    <string name="menu_setting">Settings</string>
+    <string name="menu_search">Search</string>
+
+    <string name="btn_add_to_fav">Add To Favorite</string>
+
+    <string name="notif_error_connection">Connection Failure</string>
+    <string name="notif_error_get_data">Load Data Failed</string>
+    <string name="notif_not_found">No Data Found</string>
+    <string name="notif_scs_get_data">Load Data Success</string>
+    <string name="notif_err_translate">Description Not Available</string>
+    <string name="notif_scs_insert">Added To Favorites</string>
+    <string name="notif_scs_delete">Successfully Deleted Data</string>
+    <string name="notif_err_delete">Failed to Delete Data</string>
+    <string name="notif_err_no_data">Data Not Available</string>
+    <string name="notif_err_insert">Failed To Add Data</string>
+    <string name="notif_err_already_insert">Already Registered In Favorites</string>
+    <string name="notif_delete_favorite">Delete Favorite Movie</string>
+
+    <string name="choose_yes">Yes</string>
+    <string name="choose_no">Cancel</string>
+    <string name="appwidget_favmovie" translatable="false">FAVORITE MOVIES</string>
+
+    <string name="dailyreminder_notification_title">Daily Reminder</string>
+    <string name="dailyreminder_notification_content">Long time not see you &#128522;</string>
+
+    <string name="releaseyreminder_notification_title">Release Reminder</string>
+    <string name="releasereminder_notification_content">Release today</string>
+</resources>

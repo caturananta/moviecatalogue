@@ -1,0 +1,49 @@
+<resources>
+    <string name="content_movie_name">Judul Film</string>
+    <string name="content_movie_year">Tahun Rilis</string>
+    <string name="content_movie_description">Deskripsi Film</string>
+    <string name="content_movie_rating">Peringkat Film</string>
+    <string name="content_lang_id">Indonesia</string>
+    <string name="content_lang_en">English</string>
+    <string name="content_config_release_reminder">Pengingat Perilisan</string>
+    <string name="content_config_daily_reminder">Pengingat Harian</string>
+    <string name="content_config_release_reminder_desc">Pengingat untuk film yang sedang ditayangkan hari ini</string>
+    <string name="content_config_daily_reminder_desc">Pengingat untuk kembalik ke aplikasi</string>
+    <string name="content_query_result">Hasil dari </string>
+
+    <string name="header_main_title">Katalog Film</string>
+    <string name="header_detail_title">Detail Film</string>
+    <string name="header_language_title">Bahasa</string>
+    <string name="header_config_title">Pengaturan</string>
+
+    <string name="tab_movie_title">Film</string>
+    <string name="tab_tv_title">Acara TV</string>
+    <string name="tab_favorite">Kesukaan</string>
+    <string name="menu_language">Bahasa</string>
+    <string name="menu_setting">Pengaturan</string>
+    <string name="menu_search">Cari</string>
+
+    <string name="btn_add_to_fav">Tambah Ke Favorit</string>
+
+    <string name="notif_error_connection">Koneksi Gagal</string>
+    <string name="notif_error_get_data">Gagal Memuat Data</string>
+    <string name="notif_not_found">Data tidak ditemukan</string>
+    <string name="notif_scs_get_data">Berhasil Memuat Data</string>
+    <string name="notif_err_translate">Deskripsi Tidak Tersedia</string>
+    <string name="notif_scs_insert">Ditambahkan Ke Favorit</string>
+    <string name="notif_scs_delete">Berhasil Menghapus Data</string>
+    <string name="notif_err_delete">Gagal Menghapus Data</string>
+    <string name="notif_err_no_data">Data Tidak Tersedia</string>
+    <string name="notif_err_insert">Gagal Menambah Data</string>
+    <string name="notif_err_already_insert">Sudah Terdaftar Di Favorit</string>
+    <string name="notif_delete_favorite">Hapus Film Favorit</string>
+
+    <string name="choose_yes">Iya</string>
+    <string name="choose_no">Batal</string>
+
+    <string name="dailyreminder_notification_title">Pengingat Harian</string>
+    <string name="dailyreminder_notification_content">Sudah lama tidak melihatmu &#128522;</string>
+
+    <string name="releaseyreminder_notification_title">Pengingat penayangan</string>
+    <string name="releasereminder_notification_content">Tayang hari ini</string>
+</resources>
